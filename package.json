@@ -19,8 +19,7 @@
     "typescript": "^7.0.2"
   },
   "dependencies": {
+    "Promesas": "link:",
     "prompt-sync": "^4.2.0"
   }
 }
- 
- 

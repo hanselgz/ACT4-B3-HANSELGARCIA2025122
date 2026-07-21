@@ -10,7 +10,7 @@ export async function menuAuth(): Promise<Usuario | null> {
     let usuarioActual: Usuario | null = null;
 
     do {
-        console.log("\nBienvenido");
+        console.log("\nBienvenido Brother");
         console.log("1. Iniciar sesión");
         console.log("2. Registrarse");
         console.log("3. Salir");

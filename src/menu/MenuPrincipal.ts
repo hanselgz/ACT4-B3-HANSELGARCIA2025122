@@ -207,7 +207,7 @@ export async function namePrincipal() {
                         await comentarioService.eliminar(idEliminarComentario);
                     break;
                     case 6:
-                        console.log("Volviendo al menú principal...");
+                        console.log("Volviendo al menú principal");
                     break;
                     default:
                         console.log("Opción inválida. Intente nuevamente.");
@@ -216,7 +216,7 @@ export async function namePrincipal() {
             }while(opcionComentarios !== 6);
             break;
             case 4:
-                console.log("Volviendo al menú principal...");
+                console.log("Volviendo al menú principal");
             break;
             default:
                 console.log("Opción inválida. Intente nuevamente.");
