@@ -1,2 +1,2 @@
-# Actividad4Taller
-Modelo de backend de tienda en ts
+# ACT4-B3-TALLER
+Backend de tienda en typescript
