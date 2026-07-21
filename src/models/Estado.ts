@@ -1,0 +1,1 @@
+export type Estado = "ACTIVO" | "INACTIVO" | "ELIMINADO" | "SUSPENDIDO"

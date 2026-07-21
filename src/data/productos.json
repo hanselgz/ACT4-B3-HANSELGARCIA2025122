@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2,
+        "nombre": "arroz",
+        "precio": 12,
+        "stock": 2,
+        "categoria": "afsd"
+    },
+    {
+        "id": 12,
+        "nombre": "sadf",
+        "precio": 12,
+        "stock": 12,
+        "categoria": "dafs"
+    }
+]

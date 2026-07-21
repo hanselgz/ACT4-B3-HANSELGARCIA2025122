@@ -1,0 +1,42 @@
+[
+    {
+        "id": 2,
+        "nombre": "eeroos",
+        "apellido": "duartee",
+        "edad": 2,
+        "correo": "erds",
+        "contrasena": 234,
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 3,
+        "nombre": "eross",
+        "apellido": "duarte",
+        "edad": 23,
+        "correo": "eros@gmail.com",
+        "contrasena": 9123,
+        "rol": "USUARIO",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 4,
+        "nombre": "eross",
+        "apellido": "eross",
+        "edad": 23,
+        "correo": "eross@gmail.com",
+        "contrasena": 1234,
+        "rol": "USUARIO",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 5,
+        "nombre": "Ximena",
+        "apellido": "Garcia",
+        "edad": 19,
+        "correo": "xgarcia@gmail.com",
+        "contrasena": 123456,
+        "rol": "USUARIO",
+        "estado": "ACTIVO"
+    }
+]
